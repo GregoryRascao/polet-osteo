@@ -30,8 +30,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <Meta />
         <meta name="google-site-verification" content="p6sFTArjgQMJBoV1hUNx16pJGRf-0xQLeBsY80lrX6Q" />
+        <Meta />
         <Links />
       </head>
       <body>
