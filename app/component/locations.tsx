@@ -11,7 +11,7 @@ const locations = [
     name: "Forest",
     address: "Avenue Everard 7",
     postalCode: "1190 Forest",
-    days: "Lundi · Jeudi",
+    days: "Lundi · Mercredi · Jeudi",
     place: 'Centre « Naître et Devenir »',
   },
 ];

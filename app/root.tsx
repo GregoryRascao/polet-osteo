@@ -77,7 +77,13 @@ export const meta: MetaFunction = () => [
 export const links: LinksFunction = () => [
   {
     rel: "icon",
-    href: "/favicon.ico",
+    type: "image/x-icon",
+    href: "/favicon.ico?v=2",
+  },
+  {
+    rel: "shortcut icon",
+    type: "image/x-icon",
+    href: "/favicon.ico?v=2",
   },
   {
     rel: "preconnect",
