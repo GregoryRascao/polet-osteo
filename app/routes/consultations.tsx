@@ -33,12 +33,12 @@ const appointmentUrl =
 export const meta: MetaFunction = () => {
   return [
     {
-      title: "Consultations — Agathe Polet, Ostéopathe D.O.",
+      title: "Consultations d'ostéopathie à Bruxelles — Agathe Polet",
     },
     {
       name: "description",
       content:
-        "Consultations d'ostéopathie pour adultes, femmes enceintes, post-partum, bébés et enfants à Bruxelles.",
+        "Consultations d'ostéopathie à Bruxelles avec Agathe Polet, pour adultes, grossesse, post-partum, bébés et enfants à Etterbeek et Forest.",
     },
   ];
 };
